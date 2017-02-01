@@ -1,4 +1,4 @@
-﻿WeatherTestAutomation
+WeatherTestAutomation
 Weather Test Automation is a Acceptance test automation framwork developed to test the weatehr webapplication using Selenium Webdriver, Cucumber, Java. Junit, Maven. The whole test automation project is biult with to cover the current requirements and possible solution to reuse for furutre requirement at most extense. 
 Installation and Running
 Used 
