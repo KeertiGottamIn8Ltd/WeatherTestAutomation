@@ -51,6 +51,7 @@ The above example expalins how to do we write a feaure file to display the Weath
 
 **This is just an example, its not actual test. Actual tests are in the /resources folder.
 
+
 # Documentation#
 
 I have added only SRC , POM.xml, README.md files only so that anyone can import to any IDE and create as Maven project. 
