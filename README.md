@@ -27,12 +27,19 @@ Example
 Gherkin for any requireement is as below. 
 
 Feature: As a User
+
     I should be in weather report site
+    
     So that I can see weather for any city
+    
     Scenario Outline: Check the city weather for 5 Days
+    
     Given I am in WeatherSite
+    
     When I enter city city as <city>
+    
     And I click on <day>
+    
 Examples:
   | city      | day       |
   | Edinburgh | Tuesday   | 
