@@ -35,7 +35,7 @@ Used Page Object Model as a Design pattern of the project so that we can abstrac
 Tried to refactor as much as we can reuse at the same time maintained the reaability of the code.
 How to contribute
 Have an idea? Found something wrong? Send me the list of them and will try the fix for those. I also accept contributions (via GitHub pull requests)!
-Where is this library used?
+Where is this project used?
 If you are using this code in one of your projects, mention it. 
 License
 In8ltd.co.uk © Keerti Gottam
