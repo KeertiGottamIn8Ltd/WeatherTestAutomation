@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class StepDef1 extends WeatherHomePage {
+public class WeatherReportTests extends WeatherHomePage {
 
 
     @When("^I am in (.*)$")
