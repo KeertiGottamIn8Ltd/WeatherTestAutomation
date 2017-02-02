@@ -41,8 +41,11 @@ Feature: As a User
     And I click on <day>
     
 Examples:
+  
   | city      | day       |
+  
   | Edinburgh | Tuesday   | 
+  
   | Glasgow   | Wednesday | 
 
 The above example expalins how to do we write a feaure file to display the Weather of a city on Selected Day basis. 
