@@ -16,7 +16,7 @@ Maven Build Project.
 2. Git clone - https://github.com/KeertiGottamIn8Ltd/WeatherTestAutomation.git Or Download. 
 3. Open any IDE like IntelliJ or Eclipse
 4. Import the cloned/downloaded project as MVN Project.
-5. Make sure all the plugins needed in the IDE  and let the load the whole project.
+5. Make sure all the plugins needed in the IDE  and let the whole project load properly.
 6. Select the Feature file and run it. 
 
 Note: Make sure before you run the Tests run your application. 
